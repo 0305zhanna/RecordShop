@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2013\Projects\RecordShop2\bin\Debug\RecordShop2.exe.config
+c:\users\user\documents\visual studio 2013\Projects\RecordShop2\bin\Debug\RecordShop2.exe
+c:\users\user\documents\visual studio 2013\Projects\RecordShop2\bin\Debug\RecordShop2.pdb
+c:\users\user\documents\visual studio 2013\Projects\RecordShop2\obj\Debug\RecordShop2.MainForm.resources
+c:\users\user\documents\visual studio 2013\Projects\RecordShop2\obj\Debug\RecordShop2.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\RecordShop2\obj\Debug\RecordShop2.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\RecordShop2\obj\Debug\RecordShop2.exe
+c:\users\user\documents\visual studio 2013\Projects\RecordShop2\obj\Debug\RecordShop2.pdb
+c:\users\user\documents\visual studio 2013\Projects\RecordShop2\obj\Debug\RecordShop2.RegForm.resources
+c:\users\user\documents\visual studio 2013\Projects\RecordShop2\obj\Debug\RecordShop2.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2013\Projects\RecordShop2\obj\Debug\RecordShop2.SellerForm.resources
+C:\Users\User\documents\visual studio 2013\Projects\RecordShop2\obj\Debug\RecordShop2.ClientForm.resources
+C:\Users\User\documents\visual studio 2013\Projects\RecordShop2\obj\Debug\RecordShop2.SupplierForm.resources
